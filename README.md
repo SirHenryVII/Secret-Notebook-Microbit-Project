@@ -5,7 +5,7 @@ This a project designed to work on the Micro Bit device. This program detects if
 1. (Optional) Connect a Buzzer to Pin 0 for Audio Effects.
 2. Drag HEX file into Microbit.
 3. Place Microbit inside Notebook using a cutout.
-4. Press the A Button to Arm the Device.
+4. Close the Notebook, the Device will Arm Automatically
 5. If the Notebok is Opened, it will Trigger an Alarm System.
 6. To Deactivate the Alarm System, Press the A and B Buttons at the same Time.
-7. Press A to Arm again and Repeat.
+7. The Device is Automatically Set Back to Step 4
